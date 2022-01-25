@@ -55,6 +55,14 @@ I've been using a Homepagerizer-esque homepage for ~17-18 years now, and here's 
 
 ### Building and running
 
+#### Using Make and docker-compose
+- Clone this repo
+- `make init`
+- `make server`
+- Navigate to localhost:3000
+
+#### Manually
+
 Requirements: Node.js and NPM.
 
 - Clone this repo
